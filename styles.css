@@ -3,8 +3,10 @@
     text-align: center;
 }
 
-ul{
-    font-size: 20px;
+ul,p,ol,.heading2{
+    font-size: 25px;
+    background-color: olivedrab;
+    color:greenyellow
 }
 
 .heading,
@@ -19,7 +21,14 @@ ul{
     color: greenyellow;
 }
 
-.heading2{
-    background-color: olivedrab;
-    color: greenyellow;
+
+
+.imag{
+    height:auto;
+    width:600;
+}
+
+.heading3{
+    font-size: 32px;
+    color:olivedrab
 }
