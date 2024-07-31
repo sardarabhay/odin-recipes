@@ -1,0 +1,25 @@
+.list{
+    font-size: 32px;
+    text-align: center;
+}
+
+ul{
+    font-size: 20px;
+}
+
+.heading,
+.heading2{
+    font-size: 64px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading{
+    background-color: olive;
+    color: greenyellow;
+}
+
+.heading2{
+    background-color: olivedrab;
+    color: greenyellow;
+}
